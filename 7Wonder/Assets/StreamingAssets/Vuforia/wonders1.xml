@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cinseddi1" size="10.000000 5.211931" />
+    <ImageTarget name="TacMahal" size="10.000000 6.042500" />
+    <ImageTarget name="petra" size="10.000000 6.670000" />
+    <ImageTarget name="machupichu" size="10.000000 7.278572" />
+    <ImageTarget name="kolezyum" size="10.000000 6.982609" />
+    <ImageTarget name="itza" size="10.000000 7.500000" />
+    <ImageTarget name="jesus" size="10.000000 15.000000" />
+  </Tracking>
+</QCARConfig>
